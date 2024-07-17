@@ -9,6 +9,6 @@ d)none of these<br><input name="n1"
 
 Q2) Is mukesh(buddha )is a teacher?<br>
 a)not a qualified teacher<br><input type="checkbox">
-b)illiterate teacher<br><input type="checkbox" name="n1">
+b)illiterate teacher<br><input type="checkbox">
 c) not likely to be called as a teacher<br><input type="checkbox">
-d)all of these<br><input type="checkbox" name="n1">
+d)all of these<br><input type="checkbox">
