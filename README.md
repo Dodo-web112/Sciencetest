@@ -5,7 +5,7 @@ Q1) what is the unit pf velocity?<br>
 a) ms¹<br><input type="checkbox">
 b) m/s<br><input type="checkbox">
 c)m/s²<br><input type="checkbox">
-d)none of these<br><input name="n1"
+d)none of these<br>
 
 Q2) Is mukesh(buddha )is a teacher?<br>
 a)not a qualified teacher<br><input type="checkbox">
