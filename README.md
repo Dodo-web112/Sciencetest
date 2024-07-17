@@ -1,14 +1,17 @@
 welcome to science test!<br>
 THERE ARE THE FOLLOWING QUESTIONS FOR YOU<br>
-
+<html>
+<form>
 Q1) what is the unit pf velocity?<br>
-a) ms¹<br><input type="checkbox">
-b) m/s<br><input type="checkbox">
-c)m/s²<br><input type="checkbox">
-d)none of these<br>
-
+a) ms¹<input type="checkbox"><br>
+b) m/s<input type="checkbox"><br>
+c)m/s²<input type="checkbox"><br>
+d)none of these<input type="checkbox"><br>
+  
 Q2) Is mukesh(buddha )is a teacher?<br>
-a)not a qualified teacher<br><input type="checkbox">
-b)illiterate teacher<br><input type="checkbox">
-c) not likely to be called as a teacher<br><input type="checkbox">
+a)not a qualified teacher<input type="checkbox">
+b)illiterate teacher<input type="checkbox"><br
+c) not likely to be called as a teacher<input type="checkbox"><br>
 d)all of these<br><input type="checkbox">
+</form>
+</html>
